@@ -1,0 +1,7 @@
+
+GET http://localhost:3001/users?page=2&limit=5
+
+
+###
+GET http://localhost:3001/posts?page=2&limit=5
+
